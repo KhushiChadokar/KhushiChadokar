@@ -7,7 +7,6 @@
 ### 💻 About Me
 I'm an enthusiastic developer passionate about building impactful software solutions and contributing to open-source projects. With a strong foundation in programming, problem-solving, and collaboration, I aim to craft seamless user experiences and optimize operations with innovative technology.
 
-- 🌐 Based in **Bhopal, Madhya Pradesh**.
 - 🔭 Currently working on **WorkHolic – Freelancing Platform**, using AI and NLP to improve project allocation.
 - 🌱 Exploring advanced **React.js** and diving deeper into open-source contributions.
 - ⚡ Fun fact: I love public speaking and have represented in various events!
